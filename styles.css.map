@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./css/base.css","webpack:///./sass/styles.scss","webpack:///./sass/base.scss"],"names":[],"mappings":";AACA;AACA;AACA;;;ACHA,KAAK;;ACAL,KAAK","file":"styles.css","sourcesContent":["\r\nh2 {\r\n    color: green;\r\n}\r\n\r\n","span{font-size:1rem}\n","body{color:green}\n"],"sourceRoot":""}
